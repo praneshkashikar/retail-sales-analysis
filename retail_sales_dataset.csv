@@ -1,0 +1,501 @@
+Order ID,Order Date,Customer Name,City,State,Product,Category,Quantity,Discount,Unit Price,Sales,Cost,Profit,Payment Mode
+ORD10183,2025-01-01,Isha Bhosale,Delhi,Delhi,Printer,Electronics,4,0.1,11917.07,42901.45,25346.64,17554.81,Cash
+ORD10118,2025-01-02,Aarav Sharma,Pune,Maharashtra,Office Chair,Furniture,5,0.0,8713.29,43566.45,22686.85,20879.6,Net Banking
+ORD10025,2025-01-02,Aarav Sharma,Mumbai,Maharashtra,Office Chair,Furniture,4,0.0,9433.95,37735.8,18029.96,19705.84,Cash
+ORD10455,2025-01-03,Swati Kale,Nagpur,Maharashtra,Laptop,Electronics,4,0.0,53753.02,215012.08,170008.04,45004.04,Net Banking
+ORD10440,2025-01-03,Meera Desai,Nagpur,Maharashtra,Mouse,Accessories,4,0.15,1207.09,4104.11,1374.96,2729.15,Debit Card
+ORD10394,2025-01-03,Akash Wagh,Latur,Maharashtra,Backpack,Bags,5,0.0,1748.41,8742.05,3557.8,5184.25,UPI
+ORD10189,2025-01-05,Nikhil Gupta,Aurangabad,Maharashtra,Bookshelf,Furniture,2,0.0,6138.5,12277.0,4828.08,7448.92,Credit Card
+ORD10272,2025-01-05,Priya Patil,Latur,Maharashtra,Laptop,Electronics,2,0.0,51783.16,103566.32,83871.44,19694.88,UPI
+ORD10401,2025-01-05,Meera Desai,Mumbai,Maharashtra,Bookshelf,Furniture,5,0.0,5911.78,29558.9,12651.6,16907.3,Net Banking
+ORD10329,2025-01-05,Akash Wagh,Hyderabad,Telangana,Mouse,Accessories,5,0.05,1144.56,5436.66,1793.05,3643.61,Cash
+ORD10368,2025-01-06,Pooja Shinde,Nagpur,Maharashtra,Mouse,Accessories,2,0.05,1161.64,2207.12,697.1,1510.02,Cash
+ORD10069,2025-01-06,Akash Wagh,Hyderabad,Telangana,Laptop,Electronics,2,0.0,50096.03,100192.06,79914.84,20277.22,Net Banking
+ORD10032,2025-01-06,Rohan Deshmukh,Latur,Maharashtra,Headphones,Accessories,3,0.1,3340.26,9018.7,3778.05,5240.65,Cash
+ORD10134,2025-01-07,Vivek More,Latur,Maharashtra,Office Chair,Furniture,2,0.05,9373.94,17810.49,8580.56,9229.93,Debit Card
+ORD10267,2025-01-07,Neha Jadhav,Delhi,Delhi,Smartphone,Electronics,2,0.05,21661.02,41155.94,27482.54,13673.4,Credit Card
+ORD10117,2025-01-07,Anjali Chavan,Pune,Maharashtra,Headphones,Accessories,4,0.05,3396.74,12907.61,4700.72,8206.89,UPI
+ORD10081,2025-01-08,Akash Wagh,Mumbai,Maharashtra,Mouse,Accessories,3,0.1,1147.33,3097.79,1026.57,2071.22,Debit Card
+ORD10237,2025-01-08, Priya Patil ,Latur,Maharashtra,Office Chair,Furniture,5,0.0,9213.69,46068.45,22527.5,23540.95,UPI
+ORD10067,2025-01-10,Riya Shah,Ahmedabad,Gujarat,Tablet,Electronics,5,0.1,15866.62,71399.79,45365.25,26034.54,Debit Card
+ORD10243,2025-01-11,Anjali Chavan,Pune,Maharashtra,Study Table,Furniture,2,0.05,7561.82,14367.46,7173.66,7193.8,UPI
+ORD10340,2025-01-13,Nikhil Gupta,Pune,Maharashtra,Study Table,Furniture,1,0.05,7720.89,7334.85,3572.48,3762.37,Cash
+ORD10481,2025-01-13,Sagar Mane,Aurangabad,Maharashtra,Backpack,Bags,1,0.0,1803.61,1803.61,701.54,1102.07,Credit Card
+ORD10352,2025-01-13,Riya Shah,Ahmedabad,Gujarat,Backpack,Bags,3,0.05,1747.6,4980.66,2072.43,2908.23,Net Banking
+ORD10221,2025-01-14,Vivek More,Nashik,Maharashtra,Tablet,Electronics,2,0.1,16489.48,29681.06,18522.06,11159.0,Net Banking
+ORD10172,2025-01-14,Amit Verma,Indore,Madhya Pradesh,Mouse,Accessories,2,0.1,1197.71,2155.88,667.86,1488.02,Credit Card
+ORD10082,2025-01-14,Kunal Thakur,Indore,Madhya Pradesh,Headphones,Accessories,2,0.1,3510.94,6319.69,2452.92,3866.77,Debit Card
+ORD10252,2025-01-14,Priya Patil,Mumbai,Maharashtra,Backpack,Bags,4,0.05,1862.65,7078.07,2895.2,4182.87,Net Banking
+ORD10098,2025-01-15,Nikhil Gupta,Indore,Madhya Pradesh,Office Chair,Furniture,3,0.0,8849.53,26548.59,13811.25,12737.34,Net Banking
+ORD10083,2025-01-15,Aditya Joshi,Nagpur,Maharashtra,Office Chair,Furniture,3,0.05,8646.45,24642.38,13429.02,11213.36,Cash
+ORD10433,2025-01-17,Rahul Pawar,Indore,Madhya Pradesh,Laptop,Electronics,5,0.0,51153.47,255767.35,202499.7,53267.65,Net Banking
+ORD10404,2025-01-17,Priya Patil,Indore,Madhya Pradesh,Study Table,Furniture,2,0.1,7811.05,14059.89,6658.04,7401.85,Credit Card
+ORD10109,2025-01-17,Amit Verma,Delhi,Delhi,Printer,Electronics,3,0.1,11958.84,32288.87,19462.62,12826.25,Debit Card
+ORD10123,2025-01-17,Aditya Joshi,Pune,Maharashtra,Mouse,Accessories,2,0.05,1237.81,2351.84,699.86,1651.98,UPI
+ORD10431,2025-01-19,Rohan Deshmukh,Mumbai,Maharashtra,Mouse,Accessories,4,0.05,1258.35,4781.73,1388.08,3393.65,Credit Card
+ORD10334,2025-01-22,Amit Verma,Pune,Maharashtra,Monitor,Electronics,5,0.05,18227.87,86582.38,41705.55,44876.83,Debit Card
+ORD10159,2025-01-22,Amit Verma,Nashik,Maharashtra,Office Chair,Furniture,5,0.05,8748.69,41556.28,21560.35,19995.93,Debit Card
+ORD10399,2025-01-22,Kunal Thakur,Pune,Maharashtra,Monitor,Electronics,2,0.1,18318.87,32973.97,16200.04,16773.93,UPI
+ORD10438,2025-01-22,Neha Jadhav,Bengaluru,Karnataka,Keyboard,Accessories,1,0.1,1872.32,1685.09,582.21,1102.88,Cash
+ORD10103,2025-01-23,Nikhil Gupta,Bengaluru,Karnataka,Keyboard,Accessories,4,0.0,1873.52,7494.08,2420.0,5074.08,Credit Card
+ORD10384,2025-01-24,Anjali Chavan,Nashik,Maharashtra,Keyboard,Accessories,1,0.0,1855.96,1855.96,620.15,1235.81,Cash
+ORD10357,2025-01-24,Amit Verma,Nashik,Maharashtra,Tablet,Electronics,1,0.05,15728.39,14941.97,9365.46,5576.51,UPI
+ORD10224,2025-01-25,Nikhil Gupta,Pune,Maharashtra,Headphones,Accessories,3,0.15,3613.82,9215.24,3659.88,5555.36,Cash
+ORD10212,2025-01-27,Pooja Shinde,Latur,Maharashtra,Monitor,Electronics,1,0.05,17896.34,17001.52,8265.49,8736.03,Credit Card
+ORD10065,2025-01-28,Aditya Joshi,Pune,Maharashtra,Keyboard,Accessories,2,0.0,1793.47,3586.94,1182.4,2404.54,UPI
+ORD10239,2025-01-28,Kunal Thakur,Nagpur,Maharashtra,Study Table,Furniture,2,0.05,7868.69,14950.51,7329.52,7620.99,Debit Card
+ORD10014,2025-01-29,Sneha Kulkarni,Delhi,Delhi,Headphones,Accessories,5,0.05,3642.65,17302.59,5849.6,11452.99,Net Banking
+ORD10247,2025-01-29,Nikhil Gupta,Pune,Maharashtra,Monitor,Electronics,3,0.0,18071.2,54213.6,24547.08,29666.52,Cash
+ORD10344,2025-01-30,Sneha Kulkarni,Aurangabad,Maharashtra,Smartphone,Electronics,2,0.05,22709.58,43148.2,28851.08,14297.12,Net Banking
+ORD10264,2025-01-31,Isha Bhosale,Ahmedabad,Gujarat,Tablet,Electronics,1,0.1,15211.25,13690.12,8601.55,5088.57,UPI
+ORD10152,2025-01-31,Anjali Chavan,Nagpur,Maharashtra,Monitor,Electronics,4,0.0,18685.57,74742.28,33189.88,41552.4,Credit Card
+ORD10165,2025-02-01,Amit Verma,Aurangabad,Maharashtra,Laptop,Electronics,5,0.0,51440.97,257204.85,209578.7,47626.15,Net Banking
+ORD10281,2025-02-01,Vivek More,Nagpur,Maharashtra,Bookshelf,Furniture,3,0.0,6179.16,18537.48,7850.82,10686.66,Cash
+ORD10395,2025-02-01,Sneha Kulkarni,Nashik,Maharashtra,Bookshelf,Furniture,5,0.1,5997.76,26989.92,12350.65,14639.27,Credit Card
+ORD10157,2025-02-02,Neha Jadhav,Delhi,Delhi,Bookshelf,Furniture,4,0.05,6056.64,23015.23,9883.6,13131.63,Debit Card
+ORD10214,2025-02-05,Aditya Joshi,Indore,Madhya Pradesh,Tablet,Electronics,2,0.0,15733.71,31467.42,18144.86,13322.56,Net Banking
+ORD10203,2025-02-05,Isha Bhosale,Indore,Madhya Pradesh,Office Chair,Furniture,5,0.0,8815.75,44078.75,23160.15,20918.6,Cash
+ORD10419,2025-02-06,Vivek More,Aurangabad,Maharashtra,Mouse,Accessories,3,0.05,1172.26,3340.94,1036.2,2304.74,Credit Card
+ORD10240,2025-02-07,Nikhil Gupta,Indore,Madhya Pradesh,Printer,Electronics,5,0.05,12396.64,58884.04,31098.3,27785.74,Cash
+ORD10093,2025-02-07,Rohan Deshmukh,Ahmedabad,Gujarat,Study Table,Furniture,2,0.0,7229.12,14458.24,6651.9,7806.34,UPI
+ORD10138,2025-02-08,Meera Desai,Nagpur,Maharashtra,Printer,Electronics,2,0.0,12449.64,24899.28,13037.62,11861.66,Cash
+ORD10010,2025-02-10,Rahul Pawar,Indore,Madhya Pradesh,Laptop,Electronics,3,0.1,52550.99,141887.67,131371.38,10516.29,UPI
+ORD10414,2025-02-10,Anjali Chavan,Delhi,Delhi,Monitor,Electronics,1,0.0,18893.27,18893.27,7783.34,11109.93,Credit Card
+ORD10220,2025-02-11,Neha Jadhav,Mumbai,Maharashtra,Mouse,Accessories,3,0.05,1207.99,3442.77,1038.57,2404.2,Credit Card
+ORD10271,2025-02-12,Vivek More,Pune ,Madhya Pradesh,Backpack,Bags,1,0.05,1730.66,1644.13,725.21,918.92,UPI
+ORD10133,2025-02-16,Anjali Chavan,Indore,Madhya Pradesh,Smartphone,Electronics,1,0.05,22424.99,21303.74,13372.23,7931.51,UPI
+ORD10415,2025-02-16,Aarav Sharma,Nashik,Maharashtra,Headphones,Accessories,5,0.0,3394.74,16973.7,6226.5,10747.2,UPI
+ORD10044,2025-02-16,Akash Wagh,Latur,Maharashtra,Printer,Electronics,3,0.1,11417.27,30826.63,18751.35,12075.28,Cash
+ORD10042,2025-02-17,Pooja Shinde,Aurangabad,Maharashtra,Keyboard,Accessories,1,0.0,1738.16,1738.16,585.01,1153.15,Net Banking
+ORD10003,2025-02-18,Anjali Chavan,Ahmedabad,Gujarat,Bookshelf,Furniture,5,0.05,6066.99,28818.2,11883.85,16934.35,Cash
+ORD10304,2025-02-18,Meera Desai,Aurangabad,Maharashtra,Tablet,Electronics,3,0.0,15958.86,47876.58,27245.34,20631.24,UPI
+ORD10006,2025-02-19,Pooja Shinde,Mumbai,Maharashtra,Bookshelf,Furniture,4,0.0,5997.11,23988.44,9534.4,14454.04,Cash
+ORD10055,2025-02-22,Swati Kale,Ahmedabad,Gujarat,Headphones,Accessories,3,0.05,3354.15,9559.33,3453.0,6106.33,UPI
+ORD10342,2025-02-22,Kunal Thakur,Nagpur,Maharashtra,Office Chair,Furniture,1,0.05,8747.35,8309.98,4290.15,4019.83,UPI
+ORD10355,2025-02-23,Anjali Chavan,Aurangabad,Maharashtra,Headphones,Accessories,5,0.0,3453.73,17268.65,5734.85,11533.8,Net Banking
+ORD10343,2025-02-23,Isha Bhosale,Nashik,Maharashtra,Backpack,Bags,1,0.05,1866.05,1772.75,696.78,1075.97,Cash
+ORD10489,2025-02-25,Neha Jadhav,Hyderabad,Telangana,Laptop,Electronics,1,0.0,52922.44,52922.44,42276.28,10646.16,Credit Card
+ORD10038,2025-02-27,Akash Wagh,Indore,Madhya Pradesh,Office Chair,Furniture,3,0.05,9038.38,25759.38,13211.82,12547.56,Cash
+ORD10034,2025-02-27,Rohan Deshmukh,Aurangabad,Maharashtra,Keyboard,Accessories,1,0.0,1740.51,1740.51,603.41,1137.1,Credit Card
+ORD10361,2025-02-28,Sneha Kulkarni,Aurangabad,Maharashtra,Backpack,Bags,3,0.1,1819.11,4911.6,2056.14,2855.46,Debit Card
+ORD10409,2025-02-28,Priya Patil,Nashik,Maharashtra,Printer,Electronics,1,0.05,12132.01,11525.41,6378.39,5147.02,Net Banking
+ORD10089,2025-03-03,Priya Patil,Aurangabad,Maharashtra,Monitor,Electronics,4,0.0,18855.12,75420.48,31970.4,43450.08,Debit Card
+ORD10053,2025-03-03,Isha Bhosale,Mumbai,Maharashtra,Laptop,Electronics,5,0.05,50638.83,240534.44,207432.3,33102.14,UPI
+ORD10447,2025-03-03,Neha Jadhav,Mumbai,Maharashtra,Printer,Electronics,2,0.0,11932.63,23865.26,12936.0,10929.26,UPI
+ORD10009,2025-03-04,Amit Verma,Bengaluru,Karnataka,Laptop,Electronics,1,0.15,53415.67,45403.32,40734.61,4668.71,Debit Card
+ORD10192,2025-03-04,Vivek More,Aurangabad,Maharashtra,Keyboard,Accessories,1,0.0,1828.41,1828.41,629.96,1198.45,UPI
+ORD10013,2025-03-04,Rahul Pawar,Nagpur,Maharashtra,Office Chair,Furniture,3,0.05,8934.79,25464.15,12859.32,12604.83,UPI
+ORD10251,2025-03-07,Vivek More,Delhi,Delhi,Smartphone,Electronics,3,0.0,22533.17,67599.51,43323.51,24276.0,Net Banking
+ORD10336,2025-03-08,Aarav Sharma,Hyderabad,Telangana,Tablet,Electronics,3,0.0,16791.44,50374.32,25892.49,24481.83,Cash
+ORD10210,2025-03-09,Neha Jadhav,Nagpur,Maharashtra,Printer,Electronics,5,0.05,12230.92,58096.87,34096.6,24000.27,Credit Card
+ORD10076,2025-03-10,Priya Patil,Nashik,Maharashtra,Keyboard,Accessories,5,0.0,1876.79,9383.95,2997.65,6386.3,Net Banking
+ORD10262,2025-03-10,Aditya Joshi,Indore,Madhya Pradesh,Monitor,Electronics,5,0.1,17201.04,77404.68,41410.9,35993.78,Cash
+ORD10059,2025-03-11,Kunal Thakur,Nashik,Maharashtra,Laptop,Electronics,4,0.0,54120.01,216480.04,169543.72,46936.32,Net Banking
+ORD10450,2025-03-11,Rohan Deshmukh,Aurangabad,Maharashtra,Keyboard,Accessories,4,0.0,1787.82,7151.28,2287.48,4863.8,Net Banking
+ORD10211,2025-03-14,Pooja Shinde,Nagpur,Maharashtra,Office Chair,Furniture,5,0.0,8627.09,43135.45,23386.95,19748.5,UPI
+ORD10080,2025-03-14,Nikhil Gupta,Delhi,Delhi,Backpack,Bags,4,0.0,1775.57,7102.28,2800.96,4301.32,UPI
+ORD10459,2025-03-16,Kavita Singh,Hyderabad,Telangana,Monitor,Electronics,5,0.05,18319.56,87017.91,39492.5,47525.41,Net Banking
+ORD10195,2025-03-17,Rahul Pawar,Mumbai,Maharashtra,Monitor,Electronics,1,0.0,18080.08,18080.08,7604.61,10475.47,Net Banking
+ORD10094,2025-03-17,Rohan Deshmukh,Ahmedabad,Gujarat,Keyboard,Accessories,4,0.15,1732.37,5890.06,2455.4,3434.66,Debit Card
+ORD10299,2025-03-17,Meera Desai,Aurangabad,Maharashtra,Smartphone,Electronics,1,0.0,22427.79,22427.79,13415.09,9012.7,UPI
+ORD10054,2025-03-17,Vivek More,Ahmedabad,Gujarat,Mouse,Accessories,5,0.1,1186.7,5340.15,1664.4,3675.75,Cash
+ORD10273,2025-03-17,Nikhil Gupta,Aurangabad,Maharashtra,Smartphone,Electronics,2,0.05,21805.88,41431.17,28422.72,13008.45,Cash
+ORD10495,2025-03-17,Meera Desai,Bengaluru,Karnataka,Bookshelf,Furniture,2,0.1,5737.09,10326.76,4796.18,5530.58,Net Banking
+ORD10168,2025-03-18,Isha Bhosale,Mumbai,Maharashtra,Bookshelf,Furniture,1,0.05,5752.72,5465.08,2462.66,3002.42,Credit Card
+ORD10236,2025-03-20,Akash Wagh,Mumbai,Maharashtra,Bookshelf,Furniture,3,0.05,5931.81,16905.66,7462.59,9443.07,Cash
+ORD10062,2025-03-21,Amit Verma,Latur,Maharashtra,Study Table,Furniture,1,0.0,7847.42,7847.42,3329.25,4518.17,Cash
+ORD10120,2025-03-22,Anjali Chavan,Bengaluru,Karnataka,Smartphone,Electronics,5,0.0,22986.6,114933.0,71845.25,43087.75,Debit Card
+ORD10393,2025-03-22,Priya Patil,Ahmedabad,Gujarat,Mouse,Accessories,1,0.0,1155.02,1155.02,362.27,792.75,Debit Card
+ORD10019,2025-03-22,Akash Wagh,Mumbai,Maharashtra,Headphones,Accessories,4,0.0,3499.04,13996.16,4704.44,9291.72,Credit Card
+ORD10149,2025-03-22,Riya Shah,Latur,Maharashtra,Keyboard,Accessories,2,0.05,1883.18,3578.04,1153.14,2424.9,Net Banking
+ORD10070,2025-03-24,Akash Wagh,Indore,Madhya Pradesh,Keyboard,Accessories,3,0.05,1848.42,5268.0,1880.07,3387.93,Net Banking
+ORD10171,2025-03-25,Swati Kale,Hyderabad,Telangana,Bookshelf,Furniture,2,0.05,6170.05,11723.1,5056.12,6666.98,Cash
+ORD10160,2025-03-25,Neha Jadhav,Latur,Maharashtra,Tablet,Electronics,1,0.15,15250.08,12962.57,9208.14,3754.43,Debit Card
+ORD10373,2025-03-25,Riya Shah,Delhi,Delhi,Printer,Electronics,4,0.0,12168.74,48674.96,26433.16,22241.8,Net Banking
+ORD10166,2025-03-29,Vivek More,Nagpur,Maharashtra,Backpack,Bags,1,0.15,1873.41,1592.4,715.7,876.7,UPI
+ORD10465,2025-03-29,Vivek More,Hyderabad,Telangana,Office Chair,Furniture,5,0.15,9165.11,38951.72,22219.75,16731.97,Debit Card
+ORD10096,2025-03-30,Riya Shah,Indore,Madhya Pradesh,Tablet,Electronics,3,0.05,16652.59,47459.88,26503.74,20956.14,Debit Card
+ORD10462,2025-03-31,Sagar Mane,Bengaluru,Karnataka,Monitor,Electronics,4,0.05,18334.26,69670.19,33312.68,36357.51,Net Banking
+ORD10432,2025-04-03,Swati Kale,Aurangabad,Maharashtra,Study Table,Furniture,2,0.0,7500.08,15000.16,6938.38,8061.78,Net Banking
+ORD10303,2025-04-03,Sagar Mane,Ahmedabad,Gujarat,Bookshelf,Furniture,2,0.1,5843.31,10517.96,4984.82,5533.14,UPI
+ORD10377,2025-04-04,Rohan Deshmukh,Latur,Maharashtra,Laptop,Electronics,1,0.1,51332.97,46199.67,41548.32,4651.35,Debit Card
+ORD10116,2025-04-06,Meera Desai,Nagpur,Maharashtra,Keyboard,Accessories,3,0.1,1810.21,4887.57,1839.75,3047.82,Debit Card
+ORD10046,2025-04-06,Aarav Sharma,Nagpur,Maharashtra,Printer,Electronics,5,0.1,11713.07,52708.82,30924.75,21784.07,upi
+ORD10441,2025-04-06,Amit Verma,Delhi,Delhi,Office Chair,Furniture,4,0.05,9200.46,34961.75,18282.12,16679.63,Credit Card
+ORD10099,2025-04-07,Aditya Joshi,Ahmedabad,Gujarat,Laptop,Electronics,4,0.05,52380.38,199045.44,176361.24,22684.2,Debit Card
+ORD10074,2025-04-08,Riya Shah,Pune,Maharashtra,Monitor,Electronics,3,0.1,18211.07,49169.89,25153.11,24016.78,Debit Card
+ORD10315,2025-04-09,Sagar Mane,Nashik,Maharashtra,Office Chair,Furniture,1,0.0,8898.65,8898.65,4658.33,4240.32,UPI
+ORD10227,2025-04-09,Vivek More,Ahmedabad,Gujarat,Smartphone,Electronics,5,0.05,21554.18,102382.36,69512.35,32870.01,Cash
+ORD10158,2025-04-09,Sagar Mane,Nashik,Maharashtra,Monitor,Electronics,2,0.0,17386.09,34772.18,15949.66,18822.52,UPI
+ORD10353,2025-04-10,Sagar Mane,Bengaluru,Karnataka,Headphones,Accessories,2,0.0,3555.07,7110.14,2393.34,4716.8,Net Banking
+ORD10391,2025-04-12,Akash Wagh,Latur,Maharashtra,Laptop,Electronics,4,0.1,52687.23,189674.03,161783.0,27891.03,UPI
+ORD10196,2025-04-12,Amit Verma,Nagpur,Maharashtra,Tablet,Electronics,4,0.05,16154.38,61386.64,36164.48,25222.16,Debit Card
+ORD10039,2025-04-13,Sneha Kulkarni,Latur,Maharashtra,Printer,Electronics,3,0.0,12026.69,36080.07,20026.5,16053.57,Net Banking
+ORD10135,2025-04-13,Akash Wagh,Nashik,Maharashtra,Study Table,Furniture,2,0.0,7721.51,15443.02,7171.54,8271.48,Debit Card
+ORD10250,2025-04-14,Rohan Deshmukh,Nagpur,Maharashtra,Keyboard,Accessories,2,0.05,1856.12,3526.63,1229.0,2297.63,Credit Card
+ORD10327,2025-04-14,Kunal Thakur,Pune,Maharashtra,Smartphone,Electronics,3,0.0,22621.25,67863.75,42985.23,24878.52,Net Banking
+ORD10358,2025-04-14,Kavita Singh,Mumbai,Maharashtra,Headphones,Accessories,2,0.05,3562.14,6768.07,2354.84,4413.23,Debit Card
+ORD10027,2025-04-14,Isha Bhosale,Aurangabad,Maharashtra,Headphones,Accessories,1,0.05,3354.45,3186.73,1159.4,2027.33,Debit Card
+ORD10075,2025-04-16,Kunal Thakur,Hyderabad,Telangana,Tablet,Electronics,2,0.0,16022.38,32044.76,18510.58,13534.18,UPI
+ORD10169,2025-04-16,Kavita Singh,Pune,Maharashtra,Mouse,Accessories,2,0.15,1164.1,1978.97,713.52,1265.45,UPI
+ORD10474,2025-04-16,Nikhil Gupta,Mumbai,Maharashtra,Mouse,Accessories,5,0.0,1205.67,6028.35,1836.05,4192.3,Net Banking
+ORD10473,2025-04-16,Priya Patil,Hyderabad,Telangana,Office Chair,Furniture,1,0.0,9435.81,9435.81,4453.07,4982.74,UPI
+ORD10249,2025-04-18,Nikhil Gupta,Hyderabad,Telangana,Laptop,Electronics,3,0.0,52338.11,157014.33,128379.96,28634.37,UPI
+ORD10137,2025-04-18,Priya Patil,Indore,Madhya Pradesh,Headphones,Accessories,5,0.05,3583.25,17020.44,6012.1,11008.34,Debit Card
+ORD10207,2025-04-18,Priya Patil,Nagpur,Maharashtra,Headphones,Accessories,2,0.05,3530.31,6707.59,2320.32,4387.27,UPI
+ORD10257,2025-04-19,Kavita Singh,Bengaluru,Karnataka,Bookshelf,Furniture,4,0.0,6081.89,24327.56,9649.0,14678.56,Credit Card
+ORD10223,2025-04-20,Swati Kale,Mumbai,Maharashtra,Smartphone,Electronics,1,0.05,21590.2,20510.69,14148.92,6361.77,Net Banking
+ORD10448,2025-04-20,Sagar Mane,Latur,Maharashtra,Tablet,Electronics,3,0.05,15719.22,44799.78,26377.68,18422.1,Debit Card
+ORD10104,2025-04-21,Pooja Shinde,Mumbai,Maharashtra,Monitor,Electronics,4,0.1,17350.41,62461.48,30722.56,31738.92,Cash
+ORD10127,2025-04-21,Aditya Joshi,Hyderabad,Telangana,Headphones,Accessories,1,0.05,3538.64,3361.71,1253.92,2107.79,UPI
+ORD10085,2025-04-21,Priya Patil,Nashik,Maharashtra,Backpack,Bags,4,0.0,1826.79,7307.16,2794.28,4512.88,UPI
+ORD10461,2025-04-22,Aarav Sharma,Pune,Maharashtra,Laptop,Electronics,4,0.0,52414.58,209658.32,167208.92,42449.4,Debit Card
+ORD10485,2025-04-22,Akash Wagh,Latur,Maharashtra,Smartphone,Electronics,5,0.05,21946.51,104245.92,71220.8,33025.12,Debit Card
+ORD10320,2025-04-23,Sagar Mane,Nashik,Maharashtra,Study Table,Furniture,2,0.1,7560.17,13608.31,7041.78,6566.53,Credit Card
+ORD10261,2025-04-23,Sagar Mane,Delhi,Delhi,Keyboard,Accessories,1,0.05,1886.34,1792.02,579.92,1212.1,UPI
+ORD10113,2025-04-23,Riya Shah,Pune,Maharashtra,Study Table,Furniture,3,0.0,7706.65,23119.95,10450.95,12669.0,Debit Card
+ORD10244,2025-04-24,Isha Bhosale,Indore,Madhya Pradesh,Study Table,Furniture,2,0.0,7404.13,14808.26,6952.46,7855.8,Cash
+ORD10290,2025-04-25,Aarav Sharma,Pune,Maharashtra,Headphones,Accessories,4,0.0,3607.59,14430.36,4588.36,9842.0,Debit Card
+ORD10382,2025-04-26,Sagar Mane,Pune,Maharashtra,Study Table,Furniture,5,0.0,7710.27,38551.35,17458.6,21092.75,Net Banking
+ORD10275,2025-04-26,Meera Desai,Aurangabad,Maharashtra,Headphones,Accessories,4,0.05,3396.71,12907.5,4981.36,7926.14,Debit Card
+ORD10464,2025-04-26,Swati Kale,Nashik,Maharashtra,Mouse,Accessories,4,0.0,1190.8,4763.2,1341.84,3421.36,Debit Card
+ORD10289,2025-04-27,Meera Desai,Ahmedabad,Gujarat,Printer,Electronics,1,0.0,11832.45,11832.45,6219.53,5612.92,Cash
+ORD10270,2025-04-27,Sneha Kulkarni,Pune,Maharashtra,Backpack,Bags,5,0.05,1772.91,8421.32,3364.95,5056.37,Credit Card
+ORD10204,2025-04-28,Vivek More,Hyderabad,Telangana,Mouse,Accessories,1,0.0,1203.18,1203.18,336.43,866.75,Credit Card
+ORD10341,2025-04-28,Rahul Pawar,Delhi,Delhi,Smartphone,Electronics,3,0.1,22944.3,61949.61,41601.42,20348.19,Net Banking
+ORD10259,2025-04-28,Sagar Mane,Ahmedabad,Gujarat,Smartphone,Electronics,4,0.0,22663.01,90652.04,57492.88,33159.16,UPI
+ORD10182,2025-04-28,Meera Desai,Nagpur,Maharashtra,Study Table,Furniture,4,0.15,7465.34,25382.16,13630.48,11751.68,Credit Card
+ORD10184,2025-04-30,Kavita Singh,Mumbai,Maharashtra,Backpack,Bags,3,0.05,1829.48,5214.02,2094.66,3119.36,Cash
+ORD10296,2025-04-30,Swati Kale,Aurangabad,Maharashtra,Monitor,Electronics,4,0.1,18679.07,67244.65,31457.32,35787.33,Net Banking
+ORD10347,2025-05-01,Aarav Sharma,Delhi,Delhi,Office Chair,Furniture,2,0.05,8856.33,16827.03,9396.4,7430.63,Debit Card
+ORD10245,2025-05-02,Rahul Pawar,Nagpur,Maharashtra,Keyboard,Accessories,4,0.0,1869.65,7478.6,2435.0,5043.6,UPI
+ORD10001,2025-05-02,Kunal Thakur,Hyderabad,Telangana,Office Chair,Furniture,4,0.15,9208.79,31309.89,18177.6,13132.29,Debit Card
+ORD10339,2025-05-03,Neha Jadhav,Nagpur,Maharashtra,Study Table,Furniture,3,0.05,7557.78,21539.67,10707.63,10832.04,Credit Card
+ORD10406,2025-05-04,Anjali Chavan,Pune,Maharashtra,Office Chair,Furniture,3,0.05,9015.11,25693.06,13824.21,11868.85,Credit Card
+ORD10148,2025-05-04,Nikhil Gupta,Pune,Maharashtra,Printer,Electronics,1,0.0,12517.91,12517.91,6652.89,5865.02,Debit Card
+ORD10322,2025-05-05,Aditya Joshi,Indore,Madhya Pradesh,Smartphone,Electronics,3,0.0,21973.27,65919.81,40446.21,25473.6,Credit Card
+ORD10326,2025-05-05,Rohan Deshmukh,Bengaluru,Karnataka,Bookshelf,Furniture,5,0.15,6034.63,25647.18,12309.1,13338.08,Net Banking
+ORD10178,2025-05-05,Kavita Singh,Aurangabad,Maharashtra,Smartphone,Electronics,4,0.0,21509.02,86036.08,56517.16,29518.92,Debit Card
+ORD10470,2025-05-05,Sagar Mane,Mumbai,Maharashtra,Study Table,Furniture,5,0.0,7222.26,36111.3,17073.8,19037.5,Cash
+ORD10263,2025-05-06,Rahul Pawar,Nashik,Maharashtra,Laptop,Electronics,5,0.05,51911.44,246579.34,202303.1,44276.24,Credit Card
+ORD10020,2025-05-06,Priya Patil,Nagpur,Maharashtra,Smartphone,Electronics,4,0.0,21513.02,86052.08,58286.28,27765.8,Net Banking
+ORD10413,2025-05-07,Nikhil Gupta,Latur,Maharashtra,Printer,Electronics,2,0.05,11792.45,22405.66,13507.08,8898.58,Cash
+ORD10403,2025-05-08,Isha Bhosale,Hyderabad,Telangana,Laptop,Electronics,5,0.1,53214.13,239463.58,201940.0,37523.58,Net Banking
+ORD10056,2025-05-13,Rohan Deshmukh,Indore,Madhya Pradesh,Office Chair,Furniture,5,0.1,9426.82,42420.69,23615.85,18804.84,Net Banking
+ORD10238,2025-05-13,Isha Bhosale,Mumbai,Maharashtra,Office Chair,Furniture,3,0.05,9271.92,26424.97,12967.26,13457.71,Net Banking
+ORD10359,2025-05-14,Rahul Pawar,Latur,Maharashtra,Mouse,Accessories,5,0.0,1185.91,5929.55,1726.85,4202.7,Net Banking
+ORD10408,2025-05-14,Nikhil Gupta,Nagpur,Maharashtra,Headphones,Accessories,3,0.05,3418.59,9742.98,3425.43,6317.55,Debit Card
+ORD10015,2025-05-14,Kavita Singh,Ahmedabad,Gujarat,Office Chair,Furniture,3,0.05,9342.42,26625.9,13667.88,12958.02,Cash
+ORD10029,2025-05-15,Rohan Deshmukh,Nashik,Maharashtra,Backpack,Bags,4,0.05,1752.7,6660.26,2751.12,3909.14,UPI
+ORD10360,2025-05-15,Sneha Kulkarni,Delhi,Delhi,Backpack,Bags,1,0.05,1750.19,1662.68,709.93,952.75,Debit Card
+ORD10215,2025-05-16,Isha Bhosale,Mumbai,Maharashtra,Backpack,Bags,2,0.0,1791.07,3582.14,1435.86,2146.28,Debit Card
+ORD10201,2025-05-16,Swati Kale,Nagpur,Maharashtra,Headphones,Accessories,5,0.0,3432.55,17162.75,6181.8,10980.95,Credit Card
+ORD10442,2025-05-16,Vivek More,Ahmedabad,Gujarat,Laptop,Electronics,1,0.0,53583.37,53583.37,43145.8,10437.57,Credit Card
+ORD10190,2025-05-16,Nikhil Gupta,Indore,Madhya Pradesh,Laptop,Electronics,2,0.0,49491.08,98982.16,81850.84,17131.32,UPI
+ORD10092,2025-05-18,Kavita Singh,Hyderabad,Telangana,Monitor,Electronics,3,0.0,17705.89,53117.67,23122.59,29995.08,Credit Card
+ORD10386,2025-05-18,Pooja Shinde,Ahmedabad,Gujarat,Backpack,Bags,1,0.05,1721.04,1634.99,690.35,944.64,Net Banking
+ORD10390,2025-05-19,Anjali Chavan,Ahmedabad,Gujarat,Office Chair,Furniture,2,0.05,8700.59,16531.12,9252.56,7278.56,UPI
+ORD10421,2025-05-19,Sagar Mane,Aurangabad,Maharashtra,Bookshelf,Furniture,3,0.1,5738.4,15493.68,7743.57,7750.11,Cash
+ORD10488,2025-05-19,Rahul Pawar,Nagpur,Maharashtra,Backpack,Bags,3,0.0,1778.36,5335.08,2163.3,3171.78,Debit Card
+ORD10348,2025-05-21,Kunal Thakur,Nagpur,Maharashtra,Tablet,Electronics,1,0.1,15701.36,14131.22,9260.04,4871.18,UPI
+ORD10037,2025-05-23,Priya Patil,Nagpur,Maharashtra,Headphones,Accessories,1,0.0,3463.87,3463.87,1146.09,2317.78,Credit Card
+ORD10363,2025-05-23,Vivek More,Delhi,Delhi,Study Table,Furniture,1,0.0,7523.05,7523.05,3552.84,3970.21,UPI
+ORD10084,2025-05-25,Sagar Mane,Ahmedabad,Gujarat,Printer,Electronics,1,0.1,11507.05,10356.34,6522.97,3833.37,Cash
+ORD10162,2025-05-25,Pooja Shinde,Ahmedabad,Gujarat,Study Table,Furniture,4,0.05,7478.65,28418.87,14060.52,14358.35,Debit Card
+ORD10225,2025-05-26,Neha Jadhav,Nashik,Maharashtra,Bookshelf,Furniture,4,0.15,5959.5,20262.3,9811.8,10450.5,Net Banking
+ORD10310,2025-05-27,Nikhil Gupta,Pune,Maharashtra,Smartphone,Electronics,2,0.0,21744.45,43488.9,27877.46,15611.44,Cash
+ORD10173,2025-05-27,Meera Desai,Indore,Madhya Pradesh,Mouse,Accessories,4,0.0,1159.15,4636.6,1452.04,3184.56,Cash
+ORD10328,2025-05-27,Priya Patil,Aurangabad,Maharashtra,Office Chair,Furniture,5,0.0,9317.3,46586.5,22974.5,23612.0,Debit Card
+ORD10333,2025-05-27,Neha Jadhav,Bengaluru,Karnataka,Study Table,Furniture,4,0.0,7605.15,30420.6,13717.8,16702.8,Debit Card
+ORD10398,2025-05-27,Kavita Singh,Nagpur,Maharashtra,Laptop,Electronics,5,0.05,53885.73,255957.22,203264.35,52692.87,Debit Card
+ORD10407,2025-05-28,Kavita Singh,Aurangabad,Maharashtra,Monitor,Electronics,3,0.0,18812.56,56437.68,23513.49,32924.19,Debit Card
+ORD10023,2025-05-28,Rahul Pawar,Nagpur,Maharashtra,Tablet,Electronics,4,0.0,15552.39,62209.56,36760.12,25449.44,Cash
+ORD10354,2025-05-29,Pooja Shinde,Aurangabad,Maharashtra,Smartphone,Electronics,1,0.0,22333.61,22333.61,14334.04,7999.57,UPI
+ORD10410,2025-05-30,Kunal Thakur,Delhi,Delhi,Headphones,Accessories,1,0.0,3482.18,3482.18,1213.47,2268.71,Net Banking
+ORD10077,2025-05-31,Swati Kale,Ahmedabad,Gujarat,Smartphone,Electronics,5,0.0,22175.23,110876.15,68890.95,41985.2,Debit Card
+ORD10052,2025-05-31,Aditya Joshi,Bengaluru,Karnataka,Laptop,Electronics,3,0.0,51334.49,154003.47,129482.79,24520.68,Cash
+ORD10024,2025-05-31,Anjali Chavan,Delhi,Delhi,Backpack,Bags,1,0.0,1803.2,1803.2,723.64,1079.56,Debit Card
+ORD10268,2025-06-03,Kavita Singh,Indore,Madhya Pradesh,Study Table,Furniture,3,0.15,7545.13,19240.08,10958.67,8281.41,UPI
+ORD10283,2025-06-03,Aditya Joshi,Nashik,Maharashtra,Monitor,Electronics,3,0.05,17267.45,49212.23,22870.47,26341.76,Debit Card
+ORD10078,2025-06-04,Riya Shah,Nagpur,Maharashtra,Mouse,Accessories,4,0.0,1181.48,4725.92,1455.56,3270.36,Net Banking
+ORD10285,2025-06-05,Aarav Sharma,Latur,Maharashtra,Keyboard,Accessories,2,0.1,1868.37,3363.07,1203.06,2160.01,Net Banking
+ORD10316,2025-06-05,Kavita Singh,Nagpur,Maharashtra,Keyboard,Accessories,2,0.05,1750.73,3326.39,1186.1,2140.29,UPI
+ORD10491,2025-06-05,Akash Wagh,Hyderabad,Telangana,Study Table,Furniture,1,0.0,7345.33,7345.33,3339.52,4005.81,Debit Card
+ORD10101,2025-06-06,Nikhil Gupta,Latur,Maharashtra,Headphones,Accessories,5,0.0,3464.05,17320.25,6178.4,11141.85,Cash
+ORD10318,2025-06-06,Anjali Chavan,Nagpur,Maharashtra,Keyboard,Accessories,4,0.0,1847.14,7388.56,2507.2,4881.36,Cash
+ORD10040,2025-06-07,Kunal Thakur,Indore,Madhya Pradesh,Headphones,Accessories,3,0.05,3579.13,10200.52,3771.3,6429.22,UPI
+ORD10208,2025-06-09,Amit Verma,Hyderabad,Telangana,Office Chair,Furniture,5,0.0,8571.27,42856.35,22819.45,20036.9,Credit Card
+ORD10167,2025-06-10,Anjali Chavan,Nashik,Maharashtra,Bookshelf,Furniture,1,0.05,5711.02,5425.47,2495.59,2929.88,Credit Card
+ORD10114,2025-06-11,Aarav Sharma,Indore,Madhya Pradesh,Headphones,Accessories,1,0.0,3351.43,3351.43,1230.39,2121.04,Cash
+ORD10256,2025-06-11,Riya Shah,Bengaluru,Karnataka,Tablet,Electronics,5,0.05,16098.38,76467.3,45272.95,31194.35,Debit Card
+ORD10161,2025-06-12,Akash Wagh,Pune,Maharashtra,Backpack,Bags,5,0.15,1783.68,7580.64,3637.95,3942.69,UPI
+ORD10453,2025-06-12,Nikhil Gupta,Delhi,Delhi,Monitor,Electronics,5,0.05,18552.0,88122.0,41432.1,46689.9,Net Banking
+ORD10265,2025-06-12,Meera Desai,Hyderabad,Telangana,Headphones,Accessories,5,0.0,3344.97,16724.85,5869.3,10855.55,Credit Card
+ORD10242,2025-06-13,Kavita Singh,Latur,Maharashtra,Backpack,Bags,1,0.05,1717.55,1631.67,732.79,898.88,Debit Card
+ORD10278,2025-06-13,Aditya Joshi,Ahmedabad,Gujarat,Keyboard,Accessories,3,0.0,1743.61,5230.83,1726.92,3503.91,Net Banking
+ORD10458,2025-06-15,Meera Desai,Indore,Madhya Pradesh,Keyboard,Accessories,3,0.0,1798.95,5396.85,1864.98,3531.87,Debit Card
+ORD10317,2025-06-16,Priya Patil,Nashik,Maharashtra,Office Chair,Furniture,3,0.05,8884.06,25319.57,13636.44,11683.13,Cash
+ORD10048,2025-06-17,Anjali Chavan,Mumbai,Maharashtra,Laptop,Electronics,1,0.1,53667.33,48300.6,42528.95,5771.65,Debit Card
+ORD10420,2025-06-17,Sneha Kulkarni,Aurangabad,Maharashtra,Study Table,Furniture,3,0.05,7597.69,21653.42,10235.79,11417.63,Credit Card
+ORD10397,2025-06-17,Kunal Thakur,Mumbai,Maharashtra,Office Chair,Furniture,4,0.05,9000.98,34203.72,18371.16,15832.56,Net Banking
+ORD10335,2025-06-18,Rohan Deshmukh,Pune,Maharashtra,Mouse,Accessories,2,0.0,1175.93,2351.86,690.12,1661.74,UPI
+ORD10456,2025-06-20,Priya Patil,Nagpur,Maharashtra,Keyboard,Accessories,5,0.05,1814.57,8619.21,3147.2,5472.01,Credit Card
+ORD10248,2025-06-20,Aditya Joshi,Aurangabad,Maharashtra,Monitor,Electronics,2,0.0,18010.53,36021.06,16545.12,19475.94,Net Banking
+ORD10213,2025-06-21,Priya Patil,Hyderabad,Telangana,Tablet,Electronics,4,0.0,15732.8,62931.2,36610.16,26321.04,UPI
+ORD10417,2025-06-23,Rohan Deshmukh,Bengaluru,Karnataka,Smartphone,Electronics,2,0.1,21743.23,39137.81,27981.8,11156.01,Credit Card
+ORD10365,2025-06-24,Rohan Deshmukh  ,Mumbai,Maharashtra,Keyboard,Accessories,4,0.0,1831.34,7325.36,2342.36,4983.0,Cash
+ORD10452,2025-06-25,Isha Bhosale,Aurangabad,Maharashtra,Mouse,Accessories,2,0.1,1169.88,2105.78,705.36,1400.42,Cash
+ORD10309,2025-06-26,Nikhil Gupta,Hyderabad,Telangana,Printer,Electronics,5,0.0,12163.68,60818.4,31041.2,29777.2,Cash
+ORD10145,2025-06-27,Riya Shah,Delhi,Delhi,Mouse,Accessories,1,0.05,1211.67,1151.09,350.88,800.21,UPI
+ORD10277,2025-06-27,Amit Verma,Ahmedabad,Gujarat,Laptop,Electronics,2,0.05,49948.46,94902.07,85316.96,9585.11,Debit Card
+ORD10047,2025-06-27,Rohan Deshmukh,Bengaluru,Karnataka,Headphones,Accessories,2,0.0,3530.02,7060.04,2505.66,4554.38,Cash
+ORD10186,2025-06-28,Meera Desai,Mumbai,Maharashtra,Laptop,Electronics,3,0.05,54256.15,154630.03,123683.58,30946.45,Cash
+ORD10151,2025-06-30,Anjali Chavan,Ahmedabad,Gujarat,Laptop,Electronics,3,0.1,53083.49,143325.42,130246.38,13079.04,Cash
+ORD10378,2025-06-30,Riya Shah,Nashik,Maharashtra,Laptop,Electronics,3,0.0,52634.61,157903.83,132204.78,25699.05,Cash
+ORD10457,2025-07-02,Aditya Joshi,Pune,Maharashtra,Monitor,Electronics,1,0.0,18174.33,18174.33,8342.55,9831.78,Debit Card
+ORD10136,2025-07-02,Kavita Singh,Indore,Madhya Pradesh,Bookshelf,Furniture,4,0.05,6231.0,23677.8,10030.28,13647.52,UPI
+ORD10266,2025-07-03,Amit Verma,Nashik,Maharashtra,Mouse,Accessories,2,0.1,1172.18,2109.92,675.94,1433.98,Cash
+ORD10021,2025-07-03,Akash Wagh,Delhi,Delhi,Bookshelf,Furniture,2,0.15,5845.23,9936.89,5086.06,4850.83,Net Banking
+ORD10476,2025-07-06,Pooja Shinde,Nashik,Maharashtra,Bookshelf,Furniture,1,0.1,5944.08,5349.67,2457.06,2892.61,Net Banking
+ORD10033,2025-07-07,Aarav Sharma,Nagpur,Maharashtra,Backpack,Bags,5,0.1,1787.07,8041.82,3663.35,4378.47,Cash
+ORD10232,2025-07-07,Amit Verma,Mumbai,Maharashtra,Keyboard,Accessories,2,0.0,1717.67,3435.34,1184.56,2250.78,Net Banking
+ORD10337,2025-07-07,Vivek More,Latur,Maharashtra,Backpack,Bags,5,0.05,1735.71,8244.62,3588.7,4655.92,UPI
+ORD10125,2025-07-09,Meera Desai,Mumbai,Maharashtra,Study Table,Furniture,2,0.05,7623.78,14485.18,6772.76,7712.42,Credit Card
+ORD10229,2025-07-10,Rohan Deshmukh,Nashik,Maharashtra,Headphones,Accessories,4,0.05,3474.13,13201.69,4622.76,8578.93,Debit Card
+ORD10061,2025-07-10,Akash Wagh,Ahmedabad,Gujarat,Study Table,Furniture,5,0.1,7683.16,34574.22,17816.8,16757.42,UPI
+ORD10305,2025-07-11,Anjali Chavan,Latur,Maharashtra,Study Table,Furniture,3,0.1,7338.68,19814.44,10461.0,9353.44,Debit Card
+ORD10331,2025-07-11,Kunal Thakur,Delhi,Delhi,Headphones,Accessories,3,0.0,3591.63,10774.89,3559.14,7215.75,Credit Card
+ORD10234,2025-07-11,Akash Wagh,Ahmedabad,Gujarat,Headphones,Accessories,5,0.05,3599.76,17098.86,6235.25,10863.61,UPI
+ORD10156,2025-07-12,Riya Shah,Mumbai,Maharashtra,Headphones,Accessories,2,0.1,3383.23,6089.81,2465.04,3624.77,Credit Card
+ORD10434,2025-07-12,Akash Wagh,Latur,Maharashtra,Keyboard,Accessories,2,0.1,1746.78,3144.2,1200.94,1943.26,UPI
+ORD10301,2025-07-13,Priya Patil,Aurangabad,Maharashtra,Office Chair,Furniture,4,0.0,8896.06,35584.24,17977.8,17606.44,Debit Card
+ORD10147,2025-07-14,Priya Patil,Ahmedabad,Gujarat,Smartphone,Electronics,3,0.1,21484.32,58007.66,40443.96,17563.7,Cash
+ORD10050,2025-07-15,Riya Shah,Ahmedabad,Gujarat,Printer,Electronics,5,0.1,11427.93,51425.69,33522.0,17903.69,Net Banking
+ORD10219,2025-07-15,Riya Shah,Indore,Madhya Pradesh,Backpack,Bags,1,0.05,1858.55,1765.62,684.58,1081.04,Debit Card
+ORD10402,2025-07-16,Priya Patil,Aurangabad,Maharashtra,Mouse,Accessories,3,0.0,1150.07,3450.21,1032.51,2417.7,Cash
+ORD10132,2025-07-17,Pooja Shinde,Aurangabad,Maharashtra,Study Table,Furniture,3,0.05,7729.92,22030.27,10666.71,11363.56,UPI
+ORD10479,2025-07-19,Pooja Shinde,Aurangabad,Maharashtra,Tablet,Electronics,5,0.0,16645.11,83225.55,45467.35,37758.2,UPI
+ORD10022,2025-07-20,Neha Jadhav,Mumbai,Maharashtra,Headphones,Accessories,2,0.05,3512.52,6673.79,2301.66,4372.13,Net Banking
+ORD10312,2025-07-20,Rahul Pawar,Aurangabad,Maharashtra,Smartphone,Electronics,3,0.05,20922.29,59628.53,42571.59,17056.94,Cash
+ORD10007,2025-07-21,Sneha Kulkarni,Pune,Maharashtra,Smartphone,Electronics,2,0.05,20968.89,39840.89,28958.4,10882.49,Cash
+ORD10206,2025-07-21,Riya Shah,Hyderabad,Telangana,Monitor,Electronics,5,0.0,18417.52,92087.6,41404.7,50682.9,Debit Card
+ORD10423,2025-07-21,Riya Shah,Mumbai,Maharashtra,Backpack,Bags,1,0.1,1730.14,1557.13,701.15,855.98,Debit Card
+ORD10293,2025-07-25,Vivek More,Hyderabad,Telangana,Tablet,Electronics,3,0.1,16318.9,44061.03,27916.53,16144.5,Debit Card
+ORD10388,2025-07-25,Swati Kale,Delhi,Delhi,Office Chair,Furniture,2,0.0,8842.77,17685.54,9191.36,8494.18,Debit Card
+ORD10175,2025-07-26,Aarav Sharma,Aurangabad,Maharashtra,Monitor,Electronics,3,0.0,17825.87,53477.61,23329.35,30148.26,Cash
+ORD10446,2025-07-26,Swati Kale,Delhi,Delhi,Backpack,Bags,5,0.0,1786.47,8932.35,3642.75,5289.6,UPI
+ORD10205,2025-07-27,Akash Wagh,Bengaluru,Karnataka,Backpack,Bags,2,0.0,1774.94,3549.88,1456.82,2093.06,Credit Card
+ORD10429,2025-07-28,Amit Verma,Mumbai,Maharashtra,Smartphone,Electronics,5,0.05,22032.85,104656.04,67629.55,37026.49,Credit Card
+ORD10443,2025-07-28,Rohan Deshmukh,Nashik,Maharashtra,Printer,Electronics,5,0.05,11820.24,56146.14,33076.8,23069.34,Net Banking
+ORD10418,2025-07-28,Vivek More,Indore,Madhya Pradesh,Mouse,Accessories,1,0.0,1258.52,1258.52,342.7,915.82,Net Banking
+ORD10302,2025-07-29,Akash Wagh,Ahmedabad,Gujarat,Office Chair,Furniture,1,0.05,9120.69,8664.66,4306.92,4357.74,Net Banking
+ORD10494,2025-07-29,Swati Kale,Mumbai,Maharashtra,Printer,Electronics,4,0.0,11494.73,45978.92,25851.28,20127.64,UPI
+ORD10112,2025-07-30,Akash Wagh,Hyderabad,Telangana,Mouse,Accessories,4,0.05,1162.14,4416.13,1371.96,3044.17,Net Banking
+ORD10253,2025-07-30,Aditya Joshi,Bengaluru,Karnataka,Backpack,Bags,4,0.0,1736.8,6947.2,2745.56,4201.64,Credit Card
+ORD10174,2025-07-30,Aditya Joshi,Pune,Maharashtra,Study Table,Furniture,5,0.1,7619.03,34285.64,17496.85,16788.79,UPI
+ORD10095,2025-08-01,Aditya Joshi,Nagpur,Maharashtra,Laptop,Electronics,4,0.1,50126.82,180456.55,172960.48,7496.07,Net Banking
+ORD10492,2025-08-02,Akash Wagh,Nashik,Maharashtra,Study Table,Furniture,4,0.1,7835.37,28207.33,14538.8,13668.53,Debit Card
+ORD10106,2025-08-02,Amit Verma,Ahmedabad,Gujarat,Bookshelf,Furniture,2,0.0,5746.39,11492.78,4802.12,6690.66,UPI
+ORD10444,2025-08-03,Rohan Deshmukh,Aurangabad,Maharashtra,Tablet,Electronics,4,0.05,15471.81,58792.88,34901.92,23890.96,Net Banking
+ORD10122,2025-08-03,Aditya Joshi,Pune,Maharashtra,Mouse,Accessories,3,0.0,1155.87,3467.61,1092.06,2375.55,Debit Card
+ORD10292,2025-08-03,Swati Kale,Aurangabad,Maharashtra,Monitor,Electronics,4,0.0,17858.6,71434.4,30486.96,40947.44,UPI
+ORD10187,2025-08-05,Riya Shah,Pune,Maharashtra,Printer,Electronics,4,0.15,12558.14,42697.68,24712.84,17984.84,Net Banking
+ORD10008,2025-08-05,Sagar Mane,Indore,Madhya Pradesh,Backpack,Bags,5,0.0,1758.84,8794.2,3615.05,5179.15,UPI
+ORD10129,2025-08-05,Amit Verma,Mumbai,Maharashtra,Backpack,Bags,2,0.05,1771.99,3366.78,1379.22,1987.56,Credit Card
+ORD10362,2025-08-06,Sneha Kulkarni,Hyderabad,Telangana,Backpack,Bags,5,0.0,1797.13,8985.65,3586.6,5399.05,Credit Card
+ORD10405,2025-08-07,Akash Wagh,Ahmedabad,Gujarat,Keyboard,Accessories,4,0.0,1842.82,7371.28,2449.08,4922.2,Cash
+ORD10176,2025-08-08,Kavita Singh,Nashik,Maharashtra,Laptop,Electronics,5,0.05,53262.07,252994.83,208435.35,44559.48,Cash
+ORD10066,2025-08-08,Swati Kale,Nashik,Maharashtra,Headphones,Accessories,3,0.05,3512.63,10011.0,3531.42,6479.58,Net Banking
+ORD10060,2025-08-08,Isha Bhosale,Pune,Maharashtra,Bookshelf,Furniture,3,0.0,5898.15,17694.45,7450.83,10243.62,Cash
+ORD10280,2025-08-08,Aarav Sharma,Aurangabad,Maharashtra,Smartphone,Electronics,3,0.0,22873.81,68621.43,40609.2,28012.23,Net Banking
+ORD10478,2025-08-08,Rohan Deshmukh,Bengaluru,Karnataka,Office Chair,Furniture,1,0.05,8801.47,8361.4,4334.24,4027.16,Cash
+ORD10380,2025-08-09,Sneha Kulkarni,Ahmedabad,Gujarat,Backpack,Bags,5,0.0,1741.54,8707.7,3628.35,5079.35,Net Banking
+ORD10153,2025-08-12,Sagar Mane,Hyderabad,Telangana,Monitor,Electronics,5,0.05,17389.37,82599.51,41271.85,41327.66,Debit Card
+ORD10017,2025-08-13,Kunal Thakur,Latur,Maharashtra,Backpack,Bags,3,0.0,1801.93,5405.79,2082.66,3323.13,Credit Card
+ORD10490,2025-08-15,Kunal Thakur,Mumbai,Maharashtra,Mouse,Accessories,5,0.05,1191.73,5660.72,1677.8,3982.92,Debit Card
+ORD10030,2025-08-18,Sagar Mane,Aurangabad,Maharashtra,Laptop,Electronics,4,0.05,52708.93,200293.93,163807.76,36486.17,Debit Card
+ORD10180,2025-08-19,Isha Bhosale,Bengaluru,Karnataka,Office Chair,Furniture,5,0.1,8993.05,40468.72,21931.25,18537.47,Credit Card
+ORD10233,2025-08-20,Rohan Deshmukh,Pune,Maharashtra,Headphones,Accessories,5,0.05,3377.52,16043.22,5894.8,10148.42,UPI
+ORD10451,2025-08-20,Rahul Pawar,Bengaluru,Karnataka,Bookshelf,Furniture,2,0.1,5957.39,10723.3,4850.54,5872.76,Net Banking
+ORD10430,2025-08-22,Amit Verma,Ahmedabad,Gujarat,Tablet,Electronics,2,0.0,15368.55,30737.1,17500.26,13236.84,Credit card
+ORD10469,2025-08-24,Pooja Shinde,Bengaluru,Karnataka,Keyboard,Accessories,4,0.15,1846.67,6278.68,2512.28,3766.4,Debit Card
+ORD10487,2025-08-25,Meera Desai,Mumbai,Maharashtra,Mouse,Accessories,1,0.1,1230.45,1107.4,340.04,767.36,UPI
+ORD10121,2025-08-25,Rahul Pawar,Pune,Maharashtra,Office Chair,Furniture,1,0.05,9011.21,8560.65,4608.76,3951.89,UPI
+ORD10387,2025-08-27,Vivek More,Aurangabad,Maharashtra,Headphones,Accessories,3,0.1,3343.17,9026.56,3488.79,5537.77,Net Banking
+ORD10389,2025-08-29,Swati Kale,Latur,Maharashtra,Mouse,Accessories,4,0.15,1230.51,4183.73,1385.04,2798.69,Debit Card
+ORD10231,2025-08-30,Sagar Mane,Indore,Madhya Pradesh,Printer,Electronics,2,0.0,12142.74,24285.48,12770.56,11514.92,Net Banking
+ORD10049,2025-08-30,Rohan Deshmukh,Nagpur,Maharashtra,Bookshelf,Furniture,5,0.0,5760.47,28802.35,11897.8,16904.55,UPI
+ORD10143,2025-08-31,Sagar Mane,Aurangabad,Maharashtra,Smartphone,Electronics,1,0.05,21042.97,19990.82,13862.21,6128.61,Credit Card
+ORD10230,2025-09-03,Neha Jadhav,Delhi,Delhi,Bookshelf,Furniture,5,0.0,6278.29,31391.45,12185.75,19205.7,Net Banking
+ORD10428,2025-09-04,Pooja Shinde,Mumbai,Maharashtra,Keyboard,Accessories,5,0.05,1779.26,8451.48,2996.8,5454.68,Net Banking
+ORD10372,2025-09-04,Pooja Shinde,Pune,Maharashtra,Monitor,Electronics,5,0.1,18828.24,84727.08,40085.85,44641.23,Net Banking
+ORD10288,2025-09-04,Rohan Deshmukh,Mumbai,Maharashtra,Tablet,Electronics,4,0.05,15467.41,58776.16,36559.0,22217.16,Cash
+ORD10493,2025-09-04,Meera Desai,Nashik,Maharashtra,Headphones,Accessories,2,0.05,3562.34,6768.45,2410.32,4358.13,Debit Card
+ORD10376,2025-09-05,Priya Patil,Ahmedabad,Gujarat,Backpack,Bags,5,0.05,1829.24,8688.89,3366.5,5322.39,Debit Card
+ORD10500,2025-09-07,Meera Desai,Indore,Madhya Pradesh,Mouse,Accessories,5,0.05,1203.77,5717.91,1712.9,4005.01,Cash
+ORD10325,2025-09-07,Akash Wagh,Nagpur,Maharashtra,Mouse,Accessories,5,0.1,1192.85,5367.82,1715.4,3652.42,Net Banking
+ORD10057,2025-09-10,Neha Jadhav,Mumbai,Maharashtra,Monitor,Electronics,3,0.0,17357.39,52072.17,24627.63,27444.54,Net Banking
+ORD10276,2025-09-11,Rohan Deshmukh,Bengaluru,Karnataka,Backpack,Bags,2,0.1,1810.44,3258.79,1407.36,1851.43,Cash
+ORD10374,2025-09-12,Amit Verma,Indore,Madhya Pradesh,Mouse,Accessories,4,0.0,1141.08,4564.32,1380.0,3184.32,Net Banking
+ORD10115,2025-09-12,Pooja Shinde,Hyderabad,Telangana,Smartphone,Electronics,5,0.0,22113.79,110568.95,68277.2,42291.75,UPI
+ORD10222,2025-09-13,Anjali Chavan,Pune,Maharashtra,Tablet,Electronics,2,0.0,15557.78,31115.56,18823.18,12292.38,UPI
+ORD10012,2025-09-14,Aditya Joshi,Nagpur,Maharashtra,Study Table,Furniture,3,0.05,7412.2,21124.77,10995.3,10129.47,Credit Card
+ORD10311,2025-09-15,Vivek More,Ahmedabad,Gujarat,Study Table,Furniture,4,0.1,7428.18,26741.45,13749.52,12991.93,Credit Card
+ORD10371,2025-09-17,Kavita Singh,Indore,Madhya Pradesh,Backpack,Bags,2,0.05,1723.15,3273.98,1417.12,1856.86,Debit Card
+ORD10282,2025-09-17,Neha Jadhav,Pune,Maharashtra,Monitor,Electronics,1,0.0,18871.4,18871.4,8134.34,10737.06,Credit Card
+ORD10119,2025-09-18,Aditya Joshi,Nashik,Maharashtra,Headphones,Accessories,3,0.0,3457.89,10373.67,3632.52,6741.15,UPI
+ORD10181,2025-09-18,Aarav Sharma,Latur,Maharashtra,Office Chair,Furniture,1,0.0,9422.47,9422.47,4391.16,5031.31,Cash
+ORD10150,2025-09-19,Kunal Thakur,Mumbai,Maharashtra,Tablet,Electronics,2,0.05,16259.38,30892.82,18078.8,12814.02,Cash
+ORD10144,2025-09-19,Aditya Joshi,Bengaluru,Karnataka,Monitor,Electronics,2,0.0,17166.12,34332.24,16731.64,17600.6,Net Banking
+ORD10202,2025-09-20,Kavita Singh,Delhi,Delhi,Headphones,Accessories,2,0.0,3666.85,7333.7,2477.56,4856.14,Credit Card
+ORD10209,2025-09-20,Riya Shah,Nagpur,Maharashtra,Backpack,Bags,5,0.05,1799.42,8547.25,3670.7,4876.55,Debit Card
+ORD10466,2025-09-21,Nikhil Gupta,Ahmedabad,Gujarat,Tablet,Electronics,4,0.0,16305.94,65223.76,36370.96,28852.8,Net Banking
+ORD10226,2025-09-23,Priya Patil,Nagpur,Maharashtra,Monitor,Electronics,2,0.05,17373.64,33009.92,15298.16,17711.76,Debit Card
+ORD10379,2025-09-23,Amit Verma,Hyderabad,Telangana,Laptop,Electronics,2,0.1,53962.25,97132.05,87984.72,9147.33,UPI
+ORD10139,2025-09-23,Rahul Pawar,Ahmedabad,Gujarat,Laptop,Electronics,5,0.0,51894.86,259474.3,211695.9,47778.4,Cash
+ORD10126,2025-09-24,Pooja Shinde,Latur,Maharashtra,Bookshelf,Furniture,3,0.0,5754.2,17262.6,7703.25,9559.35,Debit Card
+ORD10072,2025-09-25,Aarav Sharma,Pune,Maharashtra,Study Table,Furniture,2,0.05,7482.16,14216.1,7231.96,6984.14,Cash
+ORD10483,2025-09-26,Rahul Pawar,Delhi,Delhi,Monitor,Electronics,5,0.1,18197.89,81890.5,41698.1,40192.4,Net Banking
+ORD10445,2025-09-26,Amit Verma,Indore,Madhya Pradesh,Printer,Electronics,4,0.1,12049.98,43379.93,26671.48,16708.45,Debit Card
+ORD10477,2025-09-27,Sneha Kulkarni,Indore,Madhya Pradesh,Laptop,Electronics,1,0.0,52352.18,52352.18,42333.12,10019.06,Cash
+ORD10396,2025-09-27,Priya Patil,Mumbai,Maharashtra,Laptop,Electronics,3,0.1,50046.79,135126.33,129749.1,5377.23,Net Banking
+ORD10497,2025-09-28,Rohan Deshmukh,Mumbai,Maharashtra,Tablet,Electronics,3,0.0,15383.68,46151.04,28192.14,17958.9,Cash
+ORD10392,2025-09-28,Rahul Pawar,Bengaluru,Karnataka,Backpack,Bags,3,0.0,1877.93,5633.79,2168.79,3465.0,Debit Card
+ORD10437,2025-09-28,Rohan Deshmukh,Nagpur,Maharashtra,Bookshelf,Furniture,3,0.0,6018.95,18056.85,7507.92,10548.93,Debit Card
+ORD10217,2025-09-29,Kavita Singh,Mumbai,Maharashtra,Keyboard,Accessories,4,0.05,1726.04,6558.95,2461.28,4097.67,Cash
+ORD10287,2025-09-29,Priya Patil,Nashik,Maharashtra,Keyboard,Accessories,4,0.05,1886.24,7167.71,2432.2,4735.51,Credit Card
+ORD10482,2025-09-30,Pooja Shinde,Mumbai,Maharashtra,Smartphone,Electronics,1,0.05,22550.58,21423.05,13512.87,7910.18,Credit Card
+ORD10255,2025-09-30,Rahul Pawar,Nashik,Maharashtra,Mouse,Accessories,5,0.0,1160.03,5800.15,1694.25,4105.9,Cash
+ORD10346,2025-10-01,Neha Jadhav,Indore,Madhya Pradesh,Bookshelf,Furniture,1,0.0,5700.08,5700.08,2502.78,3197.3,UPI
+ORD10200,2025-10-02,Priya Patil,Aurangabad,Maharashtra,Bookshelf,Furniture,1,0.05,5928.04,5631.64,2424.29,3207.35,Net Banking
+ORD10300,2025-10-03,Kunal Thakur,Aurangabad,Maharashtra,Tablet,Electronics,2,0.0,15472.93,30945.86,18806.6,12139.26,Cash
+ORD10306,2025-10-04,Kunal Thakur,Bengaluru,Karnataka,Mouse,Accessories,1,0.0,1150.45,1150.45,354.1,796.35,Debit Card
+ORD10274,2025-10-04,Isha Bhosale,Hyderabad,Telangana,Monitor,Electronics,2,0.15,18529.18,31499.61,15995.6,15504.01,Credit Card
+ORD10367,2025-10-04,Meera Desai,Indore,Madhya Pradesh,Study Table,Furniture,1,0.15,7522.24,6393.9,3409.66,2984.24,Net Banking
+ORD10375,2025-10-05,Aditya Joshi,Delhi,Delhi,Study Table,Furniture,2,0.0,7761.03,15522.06,7160.2,8361.86,Debit Card
+ORD10155,2025-10-05,Sneha Kulkarni,Latur,Maharashtra,Office Chair,Furniture,2,0.0,9306.11,18612.22,8902.94,9709.28,Cash
+ORD10471,2025-10-05,Priya Patil,Bengaluru,Karnataka,Keyboard,Accessories,2,0.1,1736.45,3125.61,1181.12,1944.49,Debit Card
+ORD10286,2025-10-06,Swati Kale,Delhi,Delhi,Tablet,Electronics,4,0.1,16383.47,58980.49,34888.52,24091.97,UPI
+ORD10194,2025-10-06,Kunal Thakur,Ahmedabad,Gujarat,Mouse,Accessories,4,0.05,1236.94,4700.37,1436.72,3263.65,Net Banking
+ORD10350,2025-10-08,Vivek More,Mumbai,Maharashtra,Keyboard,Accessories,3,0.05,1883.89,5369.09,1846.98,3522.11,Net Banking
+ORD10102,2025-10-09,Amit Verma,Nashik,Maharashtra,Bookshelf,Furniture,5,0.05,6084.69,28902.28,12742.45,16159.83,Debit Card
+ORD10496,2025-10-09,Isha Bhosale,Ahmedabad,Gujarat,Backpack,Bags,2,0.0,1710.9,3421.8,1338.42,2083.38,Credit Card
+ORD10435,2025-10-09,Swati Kale,Delhi,Delhi,Monitor,Electronics,1,0.05,17834.61,16942.88,8308.5,8634.38,UPI
+ORD10016,2025-10-10,Isha Bhosale,Mumbai,Maharashtra,Headphones,Accessories,3,0.0,3367.73,10103.19,3548.28,6554.91,Net Banking
+ORD10323,2025-10-12,Sagar Mane,Ahmedabad,Gujarat,Bookshelf,Furniture,5,0.05,5966.48,28340.78,13118.55,15222.23,Debit Card
+ORD10484,2025-10-13,Rahul Pawar,Pune,Maharashtra,Laptop,Electronics,4,0.1,50203.36,180732.1,167786.04,12946.06,Net Banking
+ORD10480,2025-10-14,Aditya Joshi,Delhi,Delhi,Mouse,Accessories,3,0.1,1247.28,3367.66,1032.93,2334.73,Cash
+ORD10191,2025-10-14,Swati Kale,Nagpur,Maharashtra,Bookshelf,Furniture,3,0.1,6113.72,16507.04,7632.39,8874.65,Net Banking
+ORD10071,2025-10-15,Priya Patil,Mumbai,Maharashtra,Backpack,Bags,1,0.15,1819.11,1546.24,681.0,865.24,Cash
+ORD10412,2025-10-15,Neha Jadhav,Indore,Madhya Pradesh,Backpack,Bags,4,0.1,1749.69,6298.88,2863.2,3435.68,UPI
+ORD10045,2025-10-16,Aditya Joshi,Nashik,Maharashtra,Keyboard,Accessories,4,0.0,1847.41,7389.64,2473.64,4916.0,Credit Card
+ORD10108,2025-10-18,Isha Bhosale,Ahmedabad,Gujarat,Backpack,Bags,5,0.0,1854.51,9272.55,3326.6,5945.95,UPI
+ORD10254,2025-10-20,Neha Jadhav,Indore,Madhya Pradesh,Headphones,Accessories,5,0.05,3598.14,17091.16,5830.35,11260.81,Net Banking
+ORD10011,2025-10-20,Rohan Deshmukh,Bengaluru,Karnataka,Study Table,Furniture,4,0.0,7172.67,28690.68,13735.36,14955.32,Cash
+ORD10091,2025-10-20,Amit Verma,Aurangabad,Maharashtra,Laptop,Electronics,4,0.0,49997.15,199988.6,169858.4,30130.2,Cash
+ORD10185,2025-10-20,Isha Bhosale,Ahmedabad,Gujarat,Mouse,Accessories,4,0.05,1144.1,4347.58,1468.12,2879.46,Credit Card
+ORD10179,2025-10-25,Kavita Singh,Hyderabad,Telangana,Smartphone,Electronics,5,0.05,21189.45,100649.89,71510.75,29139.14,Credit Card
+ORD10035,2025-10-26,Swati Kale,Bengaluru,Karnataka,Mouse,Accessories,2,0.0,1175.43,2350.86,687.58,1663.28,Net Banking
+ORD10198,2025-10-27,Sneha Kulkarni,Latur,Maharashtra,Keyboard,Accessories,5,0.0,1778.44,8892.2,2969.65,5922.55,Debit Card
+ORD10308,2025-10-28,Rahul Pawar,Mumbai,Maharashtra,Laptop,Electronics,4,0.05,53987.74,205153.41,170871.84,34281.57,Cash
+ORD10364,2025-10-28,Kunal Thakur,Indore,Madhya Pradesh,Monitor,Electronics,2,0.0,17353.45,34706.9,16195.86,18511.04,Debit Card
+ORD10411,2025-10-28,Sneha Kulkarni,Mumbai,Maharashtra,Monitor,Electronics,4,0.05,18324.2,69631.96,31706.08,37925.88,UPI
+ORD10246,2025-10-29,Pooja Shinde,Bengaluru,Karnataka,Bookshelf,Furniture,1,0.05,6081.64,5777.56,2430.27,3347.29,Cash
+ORD10425,2025-10-29,Aditya Joshi,Hyderabad,Telangana,Keyboard,Accessories,5,0.0,1859.14,9295.7,3086.8,6208.9,Cash
+ORD10381,2025-10-30,Rahul Pawar,Hyderabad,Telangana,Monitor,Electronics,3,0.0,17687.41,53062.23,24815.19,28247.04,Credit Card
+ORD10197,2025-10-31,Priya Patil,Bengaluru,Karnataka,Study Table,Furniture,2,0.1,7500.33,13500.59,7029.66,6470.93,Cash
+ORD10026,2025-10-31,Swati Kale,Nagpur,Maharashtra,Keyboard,Accessories,5,0.1,1743.97,7847.87,2933.65,4914.22,Debit Card
+ORD10454,2025-10-31,Rohan Deshmukh,Delhi,Delhi,Laptop,Electronics,3,0.0,51274.22,153822.66,129575.1,24247.56,Credit Card
+ORD10351,2025-10-31,Rahul Pawar,Aurangabad,Maharashtra,Headphones,Accessories,3,0.05,3674.81,10473.21,3457.74,7015.47,Cash
+ORD10269,2025-11-01,Kunal Thakur,Latur,Maharashtra,Keyboard,Accessories,2,0.15,1736.09,2951.35,1227.02,1724.33,Debit Card
+ORD10063,2025-11-01,Meera Desai,Ahmedabad,Gujarat,Keyboard,Accessories,4,0.05,1884.47,7160.99,2405.56,4755.43,UPI
+ORD10324,2025-11-01,Sagar Mane,Latur,Maharashtra,Headphones,Accessories,1,0.0,3444.14,3444.14,1204.97,2239.17,Credit Card
+ORD10319,2025-11-01,Akash Wagh,Delhi,Delhi,Smartphone,Electronics,4,0.0,21748.92,86995.68,57633.64,29362.04,Net Banking
+ORD10004,2025-11-03,Rahul Pawar,Latur,Maharashtra,Bookshelf,Furniture,3,0.0,6289.94,18869.82,7475.07,11394.75,Net Banking
+ORD10366,2025-11-04,Vivek More,Nashik,Maharashtra,Backpack,Bags,1,0.05,1834.22,1742.51,730.14,1012.37,Debit Card
+ORD10097,2025-11-05,Pooja Shinde,Mumbai,Maharashtra,Mouse,Accessories,1,0.05,1200.33,1140.31,340.63,799.68,Debit Card
+ORD10028,2025-11-06,Rohan Deshmukh,Pune,Maharashtra,Backpack,Bags,3,0.15,1761.11,4490.83,2059.14,2431.69,Net Banking
+ORD10131,2025-11-07,Akash Wagh,Ahmedabad,Gujarat,Keyboard,Accessories,4,0.1,1883.18,6779.45,2469.6,4309.85,Cash
+ORD10422,2025-11-07,Rohan Deshmukh,Mumbai,Maharashtra,Mouse,Accessories,5,0.05,1143.4,5431.15,1699.25,3731.9,Credit Card
+ORD10424,2025-11-08,Anjali Chavan,Delhi,Delhi,Headphones,Accessories,3,0.0,3426.22,10278.66,3531.54,6747.12,UPI
+ORD10427,2025-11-09,Vivek More,Hyderabad,Telangana,Tablet,Electronics,1,0.1,16283.11,14654.8,9304.12,5350.68,Net Banking
+ORD10486,2025-11-09,Isha Bhosale,Nashik,Maharashtra,Headphones,Accessories,1,0.05,3595.74,3415.95,1154.81,2261.14,UPI
+ORD10124,2025-11-09,Neha Jadhav,Delhi,Delhi,Mouse,Accessories,2,0.05,1152.79,2190.3,674.8,1515.5,Debit Card
+ORD10036,2025-11-09,Sneha Kulkarni,Indore,Madhya Pradesh,Printer,Electronics,2,0.1,12440.49,22392.88,13537.22,8855.66,Net Banking
+ORD10235,2025-11-10,Pooja Shinde,Pune,Maharashtra,Backpack,Bags,1,0.1,1723.76,1551.38,684.56,866.82,Net Banking
+ORD10086,2025-11-11,Sagar Mane,Pune,Maharashtra,Bookshelf,Furniture,3,0.0,5902.47,17707.41,7799.73,9907.68,Net Banking
+ORD10163,2025-11-12,Rohan Deshmukh,Bengaluru,Karnataka,Smartphone,Electronics,4,0.0,22652.96,90611.84,54847.36,35764.48,Cash
+ORD10349,2025-11-12,Anjali Chavan,Mumbai,Maharashtra,Mouse,Accessories,4,0.05,1153.92,4384.9,1335.92,3048.98,Net Banking
+ORD10279,2025-11-12,Isha Bhosale,Indore,Madhya Pradesh,Study Table,Furniture,1,0.0,7811.32,7811.32,3511.56,4299.76,Cash
+ORD10426,2025-11-13,Vivek More,Latur,Maharashtra,Printer,Electronics,1,0.05,12529.34,11902.87,6744.61,5158.26,Debit Card
+ORD10031,2025-11-13,Swati Kale,Mumbai,Maharashtra,Mouse,Accessories,3,0.0,1182.01,3546.03,1065.24,2480.79,Debit Card
+ORD10294,2025-11-13,Sneha Kulkarni,Aurangabad,Maharashtra,Bookshelf,Furniture,1,0.0,6223.65,6223.65,2403.15,3820.5,UPI
+ORD10416,2025-11-14,Aarav Sharma,Nagpur,Maharashtra,Keyboard,Accessories,3,0.0,1721.25,5163.75,1792.62,3371.13,Debit Card
+ORD10018,2025-11-14,Akash Wagh,Mumbai,Maharashtra,Bookshelf,Furniture,3,0.0,6011.27,18033.81,7652.25,10381.56,Credit Card
+ORD10041,2025-11-14,Vivek More,Latur,Maharashtra,Study Table,Furniture,3,0.0,7183.84,21551.52,10001.61,11549.91,Cash
+ORD10164,2025-11-15,Priya Patil,Ahmedabad,Gujarat,Backpack,Bags,1,0.05,1754.56,1666.83,704.09,962.74,Debit Card
+ORD10142,2025-11-15,Meera Desai,Hyderabad,Telangana,Monitor,Electronics,2,0.1,17566.17,31619.11,16141.68,15477.43,Debit Card
+ORD10107,2025-11-15,Kunal Thakur,Mumbai,Maharashtra,Keyboard,Accessories,5,0.0,1743.54,8717.7,3101.25,5616.45,Net Banking
+ORD10088,2025-11-18,Isha Bhosale,Aurangabad,Maharashtra,Office Chair,Furniture,3,0.05,8919.36,25420.18,14151.21,11268.97,Cash
+ORD10439,2025-11-18,Sagar Mane,Pune,Maharashtra,Backpack,Bags,4,0.1,1808.21,6509.56,2934.88,3574.68,Net Banking
+ORD10241,2025-11-20,Meera Desai,Nashik,Maharashtra,Laptop,Electronics,1,0.15,52870.22,44939.69,39943.8,4995.89,UPI
+ORD10383,2025-11-20,Nikhil Gupta,Ahmedabad,Gujarat,Study Table,Furniture,1,0.0,7570.35,7570.35,3336.48,4233.87,Debit Card
+ORD10140,2025-11-20,Riya Shah,Pune,Maharashtra,Keyboard,Accessories,1,0.0,1729.89,1729.89,591.28,1138.61,Net Banking
+ORD10090,2025-11-20,Kunal Thakur,Aurangabad,Maharashtra,Study Table,Furniture,2,0.0,7702.12,15404.24,6780.94,8623.3,Cash
+ORD10193,2025-11-20,Priya Patil,Ahmedabad,Gujarat,Backpack,Bags,1,0.1,1850.83,1665.75,704.69,961.06,Net Banking
+ORD10298,2025-11-20,Rohan Deshmukh,Ahmedabad,Gujarat,Keyboard,Accessories,3,0.05,1842.76,5251.87,1804.53,3447.34,UPI
+ORD10297,2025-11-21,Swati Kale,Latur,Maharashtra,Laptop,Electronics,4,0.05,54576.28,207389.86,173975.68,33414.18,Cash
+ORD10449,2025-11-22,Isha Bhosale,Hyderabad,Telangana,Headphones,Accessories,2,0.05,3610.23,6859.44,2466.72,4392.72,Credit Card
+ORD10079,2025-11-22,Aarav Sharma,Aurangabad,Maharashtra,Printer,Electronics,3,0.0,11602.72,34808.16,19068.24,15739.92,Net Banking
+ORD10291,2025-11-24,Rohan Deshmukh,Nashik,Maharashtra,Monitor,Electronics,3,0.0,17904.7,53714.1,23904.87,29809.23,Debit Card
+ORD10105,2025-11-24,Anjali Chavan,Latur,Maharashtra,Monitor,Electronics,4,0.0,18753.75,75015.0,32928.28,42086.72,UPI
+ORD10400,2025-11-24,Aarav Sharma,Nashik,Maharashtra,Keyboard,Accessories,3,0.1,1886.74,5094.2,1823.04,3271.16,UPI
+ORD10146,2025-11-25,Sneha Kulkarni,Ahmedabad,Gujarat,Study Table,Furniture,3,0.1,7293.33,19691.99,10210.02,9481.97,Net Banking
+ORD10100,2025-11-26,Aarav Sharma,Delhi,Delhi,Office Chair,Furniture,1,0.0,9062.9,9062.9,4618.11,4444.79,Net Banking
+ORD10370,2025-11-28,Amit Verma,Ahmedabad,Gujarat,Headphones,Accessories,3,0.05,3467.34,9881.92,3763.08,6118.84,Net Banking
+ORD10475,2025-11-28,Kavita Singh,Ahmedabad,Gujarat,Laptop,Electronics,1,0.1,49482.28,44534.05,42095.59,2438.46,Debit Card
+ORD10307,2025-11-29,Meera Desai,Delhi,Delhi,Office Chair,Furniture,1,0.0,9157.88,9157.88,4295.18,4862.7,Net Banking
+ORD10295,2025-11-30,Vivek More,Nagpur,Maharashtra,Backpack,Bags,1,0.05,1764.23,1676.02,706.89,969.13,Cash
+ORD10436,2025-12-02,Vivek More,Aurangabad,Maharashtra,Mouse,Accessories,4,0.05,1230.32,4675.22,1395.12,3280.1,Debit Card
+ORD10188,2025-12-02,Riya Shah,Nashik,Maharashtra,Backpack,Bags,3,0.05,1830.04,5215.61,2024.34,3191.27,Credit Card
+ORD10199,2025-12-02,Nikhil Gupta,Delhi,Delhi,Office Chair,Furniture,2,0.05,9019.11,17136.31,9290.16,7846.15,Net Banking
+ORD10356,2025-12-03,Sneha Kulkarni,Pune,Maharashtra,Bookshelf,Furniture,5,0.05,5845.13,27764.37,13013.85,14750.52,Credit Card
+ORD10058,2025-12-05,Pooja Shinde,Latur,Maharashtra,Study Table,Furniture,2,0.0,7793.92,15587.84,6752.62,8835.22,Net Banking
+ORD10460,2025-12-05,Aarav Sharma,Aurangabad,Maharashtra,Office Chair,Furniture,1,0.05,9426.82,8955.48,4306.41,4649.07,Cash
+ORD10498,2025-12-06,Kavita Singh,Pune,Maharashtra,Backpack,Bags,5,0.0,1839.08,9195.4,3624.65,5570.75,Cash
+ORD10499,2025-12-06,Akash Wagh,Latur,Maharashtra,Office Chair,Furniture,1,0.0,9206.74,9206.74,4698.1,4508.64,Cash
+ORD10073,2025-12-07,Meera Desai,Latur,Maharashtra,Keyboard,Accessories,3,0.0,1734.12,5202.36,1715.19,3487.17,Credit Card
+ORD10068,2025-12-07,Akash Wagh,Delhi,Delhi,Keyboard,Accessories,1,0.1,1796.47,1616.82,629.12,987.7,Net Banking
+ORD10141,2025-12-10,Sneha Kulkarni,Ahmedabad,Gujarat,Backpack,Bags,1,0.1,1718.12,1546.31,672.66,873.65,Cash
+ORD10110,2025-12-10,Aarav Sharma,Aurangabad,Maharashtra,Bookshelf,Furniture,3,0.0,5805.83,17417.49,7498.77,9918.72,UPI
+ORD10002,2025-12-10,Kavita Singh,Pune,Maharashtra,Monitor,Electronics,5,0.05,18374.53,87279.02,38082.35,49196.67,Credit Card
+ORD10005,2025-12-12,Priya Patil,Ahmedabad,Gujarat,Backpack,Bags,2,0.1,1883.81,3390.86,1443.18,1947.68,Cash
+ORD10043,2025-12-15,Rohan Deshmukh,Aurangabad,Maharashtra,Keyboard,Accessories,1,0.15,1842.82,1566.4,603.26,963.14,Cash
+ORD10258,2025-12-16,Akash Wagh,Nashik,Maharashtra,Mouse,Accessories,5,0.1,1202.07,5409.32,1739.55,3669.77,UPI
+ORD10087,2025-12-16,Amit Verma,Nashik,Maharashtra,Backpack,Bags,1,0.0,1750.56,1750.56,690.57,1059.99,UPI
+ORD10313,2025-12-16,Pooja Shinde,Nagpur,Maharashtra,Tablet,Electronics,4,0.05,16385.57,62265.17,36107.96,26157.21,Credit Card
+ORD10467,2025-12-16,Kunal Thakur,Indore,Madhya Pradesh,Headphones,Accessories,4,0.0,3666.37,14665.48,4952.16,9713.32,Debit Card
+ORD10369,2025-12-17,Kavita Singh,Delhi,Delhi,Monitor,Electronics,4,0.1,18866.15,67918.14,32938.04,34980.1,UPI
+ORD10330,2025-12-18,Neha Jadhav,Nashik,Maharashtra,Backpack,Bags,2,0.1,1736.78,3126.2,1394.78,1731.42,Credit Card
+ORD10130,2025-12-20,Kavita Singh,Aurangabad,Maharashtra,Backpack,Bags,3,0.1,1853.89,5005.5,2140.89,2864.61,Debit Card
+ORD10345,2025-12-20,Amit Verma,Bengaluru,Karnataka,Monitor,Electronics,2,0.0,17385.52,34771.04,16611.18,18159.86,UPI
+ORD10177,2025-12-20,Sneha Kulkarni,Latur,Maharashtra,Bookshelf,Furniture,2,0.1,6047.21,10884.98,4969.3,5915.68,Credit Card
+ORD10472,2025-12-21,Kavita Singh,Bengaluru,Karnataka,Bookshelf,Furniture,5,0.05,6168.33,29299.57,12254.55,17045.02,Cash
+ORD10051,2025-12-23,Vivek More,Nashik,Maharashtra,Monitor,Electronics,5,0.0,17852.3,89261.5,41870.3,47391.2,Debit Card
+ORD10314,2025-12-23,Akash Wagh,Indore,Madhya Pradesh,Laptop,Electronics,1,0.0,50934.21,50934.21,41941.2,8993.01,UPI
+ORD10338,2025-12-24,Amit Verma,Nashik,Maharashtra,Headphones,Accessories,3,0.05,3356.01,9564.63,3595.56,5969.07,Debit Card
+ORD10064,2025-12-24,Kavita Singh,Bengaluru,Karnataka,Keyboard,Accessories,3,0.1,1718.18,4639.09,1760.58,2878.51,Cash
+ORD10468,2025-12-24,Anjali Chavan,Pune,Maharashtra,Smartphone,Electronics,2,0.0,21269.86,42539.72,27929.86,14609.86,Cash
+ORD10228,2025-12-25,Isha Bhosale,Latur,Maharashtra,Tablet,Electronics,4,0.05,16213.1,61609.78,35024.04,26585.74,Net Banking
+ORD10170,2025-12-25,Vivek More,Ahmedabad,Gujarat,Study Table,Furniture,3,0.0,7797.17,23391.51,10599.51,12792.0,Credit Card
+ORD10260,2025-12-25,Vivek More,Delhi,Delhi,Laptop,Electronics,4,0.05,50326.91,191242.26,171123.32,20118.94,Credit Card
+ORD10218,2025-12-27,Priya Patil,Pune,Maharashtra,Smartphone,Electronics,5,0.0,21566.88,107834.4,68341.8,39492.6,Debit Card
+ORD10111,2025-12-27,Akash Wagh,Nashik,Maharashtra,Monitor,Electronics,2,0.0,18294.37,36588.74,15484.86,21103.88,Cash
+ORD10321,2025-12-29,Anjali Chavan,Aurangabad,Maharashtra,Keyboard,Accessories,3,0.05,1734.44,4943.15,1727.88,3215.27,Debit Card
+ORD10216,2025-12-30,Aarav Sharma,Bengaluru,Karnataka,Office Chair,Furniture,4,0.15,8568.02,29131.27,18426.92,10704.35,UPI
+ORD10284,2025-12-30,Kavita Singh,Ahmedabad,Gujarat,Bookshelf,Furniture,5,0.0,6250.92,31254.6,12013.45,19241.15,UPI
+ORD10463,2025-12-30,Pooja Shinde,Delhi,Delhi,Smartphone,Electronics,5,0.1,22313.67,100411.52,67049.9,33361.62,Debit Card
+ORD10154,2025-12-31,Rohan Deshmukh,Bengaluru,Karnataka,Laptop,Electronics,1,0.05,50750.98,48213.43,42562.82,5650.61,Debit Card
+ORD10128,2025-12-31,Amit Verma,Mumbai,Maharashtra,Printer,Electronics,4,0.05,11594.42,44058.8,26887.96,17170.84,Credit Card
+ORD10332,2025-12-31,Rohan Deshmukh,Nashik,Maharashtra,Laptop,Electronics,3,0.1,51771.09,139781.94,125287.53,14494.41,UPI
+ORD10385,2025-12-31,Aditya Joshi,Hyderabad,Telangana,Tablet,Electronics,2,0.1,16062.55,28912.59,17608.46,11304.13,Net Banking
